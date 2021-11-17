@@ -1,0 +1,23 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+    background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(0, 255,0, 0.45), 
+      rgba(255, 255, 255, 0.2)),
+    url(air.jpeg);
+    
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
