@@ -7,7 +7,7 @@ import pandas as pd
 # name initalization
 app = Flask(__name__)
 
-model = pickle.load(open("flight_rf.pkl", "rb"))
+model = pickle.load(open("flight_randomforest.pkl", "rb"))
 
 
 
