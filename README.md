@@ -5,10 +5,13 @@ This repository consists of files required for end to end implementation and dep
 
 ## Table of Contents
 
-[App Link](App Link)
-[About the App](About the App)
-[Technologies Used](Technologies Used)
-[Bug / Feature Request](Bug / Feature Request)
+![App Link](App Link)
+
+![About the App](About the App)
+
+![Technologies Used](Technologies Used)
+
+![Bug / Feature Request](Bug / Feature Request)
 
 
 
@@ -51,9 +54,9 @@ Price: The price of the ticket
 
 ## Technologies Used
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F01%2Fscikit-learn-logo.png&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2015%2F01%2Fscikit-learn-python-machine-learning-tool%2F&tbnid=anGQML2qhPLCGM&vet=12ahUKEwiEyObEo7T0AhV7CLcAHadqD1IQMygEegUIARDWAQ..i&docid=yPhEUelEH6p7RM&w=566&h=202&itg=1&q=scikit%20learn&ved=2ahUKEwiEyObEo7T0AhV7CLcAHadqD1IQMygEegUIARDWAQ)
+![Scikit learn](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F01%2Fscikit-learn-logo.png&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2015%2F01%2Fscikit-learn-python-machine-learning-tool%2F&tbnid=anGQML2qhPLCGM&vet=12ahUKEwiEyObEo7T0AhV7CLcAHadqD1IQMygEegUIARDWAQ..i&docid=yPhEUelEH6p7RM&w=566&h=202&itg=1&q=scikit%20learn&ved=2ahUKEwiEyObEo7T0AhV7CLcAHadqD1IQMygEegUIARDWAQ)
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FL5sxEr77Yvo%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DL5sxEr77Yvo&tbnid=GBMZnosdkEwb3M&vet=12ahUKEwjW853vo7T0AhWHA7cAHQxbCzQQMygQegUIARDLAQ..i&docid=GvzsFJwFnWr2hM&w=1280&h=720&itg=1&q=random%20forest%20and%20scikit%20learn&ved=2ahUKEwjW853vo7T0AhWHA7cAHQxbCzQQMygQegUIARDLAQ)
+![Random forest](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FL5sxEr77Yvo%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DL5sxEr77Yvo&tbnid=GBMZnosdkEwb3M&vet=12ahUKEwjW853vo7T0AhWHA7cAHQxbCzQQMygQegUIARDLAQ..i&docid=GvzsFJwFnWr2hM&w=1280&h=720&itg=1&q=random%20forest%20and%20scikit%20learn&ved=2ahUKEwjW853vo7T0AhWHA7cAHQxbCzQQMygQegUIARDLAQ)
 
 ## Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
