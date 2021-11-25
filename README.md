@@ -5,13 +5,13 @@ This repository consists of files required for end to end implementation and dep
 
 ## Table of Contents
 
-* [App Link](App Link)
+* [App Link](https://github.com/Abhishek21-ai/Flight_Fare/blob/master/README.md#app-link)
 
-* [About the App](About the App)
+* [About the App](#About-the-App)
 
-* [Technologies Used](Technologies Used)
+* [Technologies Used](#Technologies-Used)
 
-* [Bug / Feature Request](Bug / Feature Request)
+* [Bug / Feature Request](#Bug-Feature-Request)
 
 
 
