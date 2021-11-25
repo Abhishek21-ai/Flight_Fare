@@ -1,5 +1,4 @@
 ### Flight Fare Prediction:
-Kaggle Python 3.6 Scikit-Learn
 
 This repository consists of files required for end to end implementation and deployment of Machine Learning Flight Fare Prediction web application created with Flask and deployed on the Heroku platform.
 
