@@ -5,13 +5,13 @@ This repository consists of files required for end to end implementation and dep
 
 ## Table of Contents
 
-* [App Link](https://github.com/Abhishek21-ai/Flight_Fare/blob/master/README.md#app-link)
+* [App Link](#app-link)
 
 * [About the App](#About-the-App)
 
 * [Technologies Used](#Technologies-Used)
 
-* [Bug / Feature Request](#Bug-Feature-Request)
+* [Bug / Feature Request](#bug--feature-request)
 
 
 
@@ -54,9 +54,9 @@ Price: The price of the ticket
 
 ## Technologies Used
 
-![download](https://user-images.githubusercontent.com/68462503/143494955-9d978850-823c-487f-846d-f266d05816e0.jpg)
+![download](https://user-images.githubusercontent.com/68462503/143494955-9d978850-823c-487f-846d-f266d05816e0.jpg)  ![download](https://user-images.githubusercontent.com/68462503/143494998-4540c233-7a71-4dd7-a0f5-f2901a2b1249.png)
 
-![download](https://user-images.githubusercontent.com/68462503/143494998-4540c233-7a71-4dd7-a0f5-f2901a2b1249.png)
+
 
 
 ## Bug / Feature Request
